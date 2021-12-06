@@ -15,9 +15,9 @@ let myCollection = [
     }
   ];
   //console.log(myCollection)
-  function describeItem(name) {
-      console.log(`I have a ${name}`)
+  function describeItem(name, whatILike) {
+      console.log(`I have a ${name}, here's what I like about it: ${whatILike}`)
 
   }
-  describeItem("hat") 
+  describeItem("hat", "An often overlooked fashion accessory") 
  
