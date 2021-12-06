@@ -35,8 +35,7 @@ If you did see the version numbers, now it's time to play around in Node. In you
 let myCollection = [
   {
     name: "School of Code mug",
-    count: 1,
-    whatILike: "It has my cute pixel character on it!"
+    count: 1,npm init
   },
   {
     name: "School of Code hat",
